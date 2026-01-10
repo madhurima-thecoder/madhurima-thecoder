@@ -1,5 +1,14 @@
-## Hi there 👋
+## Hi 👋
+I am Madhurima, an IT enthusiast with 16+ years of Corporate IT experience in Java development and Salesforce. Recently took a career break after my second baby to spend some quality time with family, pause & reflect and try something different! I explored a business venture (non-IT) for few months. Although a great learning experience, my love for building software brought my focus back to the IT space. I am exploring the Freelance workspace now and recently delivered my first Freelance project (Website & Admin application) - a great opportunity where I learned React and Node Js to build end-to-end application with MS SQL as a database. 
 
+I see myself as a curious and quick learner who loves to learn new technologies and work on varied systems.  Here is a brief summary of my backgroud.
+
+🌱 **What have I done?**
+- Build website and admin application for The Hindu Association HK. (**Tech Stack**: React JS, Node JS, MS SQL, Azure Cloud, **Role**: Full Stack Developer)
+- Delivered SIM Registration Application for Leading Telco Client (**Tech Stack**: Salesforce Sales Cloud, Mulesoft, Legacy ORM, **Role**: Lead Business Analyst)
+- Delivery of Order Management module for Leading Telco Client (**Tech Stack**: Salesforce Industry Cloud, Legacy ORM, **Role**: Salesforce Consultant)
+- Support of Healthcare eCommerce system for a Healcare Client (**Tech Stack**: Salesforce Commerce Cloud **Role**: Salesforce Functional Lead)
+- 
 <!--
 **madhurima-thecoder/madhurima-thecoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
