@@ -18,7 +18,8 @@ I see myself as a curious and quick learner who loves to learn new technologies 
 - Develop the incentive pay module for leading hedgefund company (**Tech Stack**: Java, Struts, Hibernate **Role**: Developer)
 
 ## Contact Me
-Email: madhurima.bhattacharjee@gmail.com
+Email: madhurima.bhattacharjee@gmail.com 
+
 LinkedIn: https://www.linkedin.com/in/madhurima-bhattacharjee-6b942216/
 
 <!--
