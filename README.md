@@ -1,14 +1,22 @@
-## Hi 👋
+# Salesforce Consulting | AI | Website Development
+
+#### Technical Skills: Salesforce - Sales Cloud | B2B Commerce | Agentforce | React JS | Node JS | Core Java | SQL | Azure
+
+## About Me
 I am Madhurima, an IT enthusiast with 16+ years of Corporate IT experience in Java development and Salesforce. Recently took a career break after my second baby to spend some quality time with family, pause & reflect and try something different! I explored a business venture (non-IT) for few months. Although a great learning experience, my love for building software brought my focus back to the IT space. I am exploring the Freelance workspace now and recently delivered my first Freelance project (Website & Admin application) - a great opportunity where I learned React and Node Js to build end-to-end application with MS SQL as a database. 
 
 I see myself as a curious and quick learner who loves to learn new technologies and work on varied systems.  Here is a brief summary of my backgroud.
 
-🌱 **What have I done?**
+## Work Experience
 - Build website and admin application for The Hindu Association HK. (**Tech Stack**: React JS, Node JS, MS SQL, Azure Cloud, **Role**: Full Stack Developer)
 - Delivered SIM Registration Application for Leading Telco Client (**Tech Stack**: Salesforce Sales Cloud, Mulesoft, Legacy ORM, **Role**: Lead Business Analyst)
 - Delivery of Order Management module for Leading Telco Client (**Tech Stack**: Salesforce Industry Cloud, Legacy ORM, **Role**: Salesforce Consultant)
 - Support of Healthcare eCommerce system for a Healcare Client (**Tech Stack**: Salesforce Commerce Cloud **Role**: Salesforce Functional Lead)
-- 
+- Migration of Legacy eCommerce System to Salesforce B2B Commerce (**Tech Stack**: Salesforce B2B Commerce **Role**: Solution Delivery Lead)
+- Building Salesforce Sales Cloud applications for DuPont Agriculture Business (**Tech Stack**: Salesforce Sales Cloud **Role**: Technical Lead)
+- Revamp & build end-to-end eCommerce application on Java-J2EE with ERP backend (**Tech Stack**: Java, JSP, AJAX, SAP-ERP **Role**: Technical Lead)
+- Develop the incentive pay module for leading hedgefund company (**Tech Stack**: Java, Struts, Hibernate **Role**: Developer)
+
 <!--
 **madhurima-thecoder/madhurima-thecoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
