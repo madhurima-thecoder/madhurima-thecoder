@@ -1,4 +1,4 @@
-# Salesforce Consulting | AI | Website Development
+# Salesforce Consulting | Agentforce Implementation | Website Development
 
 #### Technical Skills: Salesforce - Sales Cloud | B2B Commerce | Agentforce | React JS | Node JS | Core Java | SQL | Azure
 
@@ -16,6 +16,10 @@ I see myself as a curious and quick learner who loves to learn new technologies 
 - Building Salesforce Sales Cloud applications for DuPont Agriculture Business (**Tech Stack**: Salesforce Sales Cloud **Role**: Technical Lead)
 - Revamp & build end-to-end eCommerce application on Java-J2EE with ERP backend (**Tech Stack**: Java, JSP, AJAX, SAP-ERP **Role**: Technical Lead)
 - Develop the incentive pay module for leading hedgefund company (**Tech Stack**: Java, Struts, Hibernate **Role**: Developer)
+
+## Contact Me
+Email: madhurima.bhattacharjee@gmail.com
+LinkedIn: https://www.linkedin.com/in/madhurima-bhattacharjee-6b942216/
 
 <!--
 **madhurima-thecoder/madhurima-thecoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
